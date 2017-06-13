@@ -16,7 +16,7 @@ Quick start
 
 Install it by
 <pre>
-pip install -e git+https://github.com/IMGIITRoorkee/django-filemanager.git#egg=django-filemanager
+pip install -e git+https://github.com/adkhn777/django-filemanager.git#egg=django-filemanager
 </pre>
 
 Add "filemanager" to your INSTALLED_APPS setting like this::
